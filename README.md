@@ -1,7 +1,9 @@
 # TUGAS 1 LAYOUTING
 
 Nama : Ardan Haryanto Putra
+
 Nim : 124230104
+
 Kelas : Praktikum Aplikasi Mobile SI - F
 
 ## Getting Started
