@@ -1,6 +1,8 @@
-# tugasprak
+# TUGAS 1 LAYOUTING
 
-A new Flutter project.
+Nama : Ardan Haryanto Putra
+Nim : 124230104
+Kelas : Praktikum Aplikasi Mobile SI - F
 
 ## Getting Started
 
